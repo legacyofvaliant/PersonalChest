@@ -1,0 +1,10 @@
+worlds:
+  - world
+
+mysql:
+  host: localhost
+  port: 3306
+  database: personalchest
+  username: root
+  password: password
+  table-prefix: personalchest_

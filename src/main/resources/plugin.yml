@@ -1,0 +1,9 @@
+name: PersonalChest
+version: '${project.version}'
+main: net.nutchi.personalchest.PersonalChest
+api-version: '1.19'
+commands:
+  personalchest:
+    aliases: [ pc ]
+    usage: |
+      /<command> reload
