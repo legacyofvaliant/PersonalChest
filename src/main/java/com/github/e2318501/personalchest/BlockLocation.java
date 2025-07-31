@@ -1,4 +1,4 @@
-package net.nutchi.personalchest;
+package com.github.e2318501.personalchest;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

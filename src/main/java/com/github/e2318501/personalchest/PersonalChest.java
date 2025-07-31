@@ -1,9 +1,9 @@
-package net.nutchi.personalchest;
+package com.github.e2318501.personalchest;
 
 import lombok.Getter;
-import net.nutchi.personalchest.listener.BlockListener;
-import net.nutchi.personalchest.listener.InventoryListener;
-import net.nutchi.personalchest.listener.PlayerListener;
+import com.github.e2318501.personalchest.listener.BlockListener;
+import com.github.e2318501.personalchest.listener.InventoryListener;
+import com.github.e2318501.personalchest.listener.PlayerListener;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.plugin.PluginManager;

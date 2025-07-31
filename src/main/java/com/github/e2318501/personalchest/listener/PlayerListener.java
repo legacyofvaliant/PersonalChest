@@ -1,7 +1,7 @@
-package net.nutchi.personalchest.listener;
+package com.github.e2318501.personalchest.listener;
 
 import lombok.RequiredArgsConstructor;
-import net.nutchi.personalchest.PersonalChest;
+import com.github.e2318501.personalchest.PersonalChest;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerLoginEvent;
